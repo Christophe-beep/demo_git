@@ -1,3 +1,7 @@
 # demo_git
 Une demo de git c'est super
+<<<<<<< HEAD
+Modification sous github test4
+=======
 Modification sous github test3
+>>>>>>> mon-test
